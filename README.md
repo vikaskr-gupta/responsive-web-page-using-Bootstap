@@ -1,2 +1,2 @@
 # responsive-web-page-using-Bootstap
-A responsive web-page using Bootstap and some add other content to make this page awesome.
+A responsive web-page using Bootstrap and some add other content to make this page awesome.
